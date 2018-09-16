@@ -12,7 +12,7 @@ public class Child {
 	private double posx,posy;
 	private double vx,vy;
 	private boolean fragile;
-
+////////////////Getter & Setter
 	public boolean isFragile() {
 		return fragile;
 	}
